@@ -24,8 +24,8 @@ Some screenshots of the Application:
   </tr>
   <tr>
     <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/ffa12c31-d862-4945-b315-f1decbe4d0e9" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682402-6a9917ae-0734-4b37-a8ef-bfcc0f49f537.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682393-903ff2a0-2aac-48d4-92a5-0d3e2f403a84.png" width="220"></td>
+    <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/4b6ced7f-0327-4c0f-bc11-500e58ef09bf" width="220"></td>
+    <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/47cb492a-e70a-49b0-85e8-8737e4ce5cd3" width="220"></td>
   </tr>
  </table>
  <table>
@@ -34,23 +34,23 @@ Some screenshots of the Application:
     <td>Donate Screen</td>
     <td>Receive Screen</td>
     <td>Food Map Screen</td>
+    <td>MyPins</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682397-00db142f-8817-47d5-b23d-e67aef63ea02.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682399-7f6ba8ba-0805-4797-9af1-8994707c9adb.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683214-c1795ace-d312-40f2-9b1f-72a855ea27bd.png" width="220"></td>
+    <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/7f9075eb-065c-4044-a83a-782fc7f72350" width="220"></td>
+    <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/b30e225a-9d1e-4471-b065-6027ae0f494e" width="220"></td>
+    <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/5abd4a2b-e735-4df3-ad8c-bef187a6b333" width="220"></td>
+    <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/e3f4a9b1-6729-48c6-8d32-40fafc58f3ff" width="220"></td>
+    <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/1713173d-f0d4-4415-960b-2cd63bffeec0" width="220"></td>
   </tr>
  </table>
  </table>
  <table>
   <tr>
     <td>History Screen</td>
-    <td>About Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683209-1f154899-b993-43e2-8536-d8fceb61cbe5.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683224-83af7bc1-f8c6-4b6b-bd26-3ec9b13813a3.png" width="220"></td>
+    <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/3dedf269-b678-46e7-9abf-29d6b6fcb194" width="220"></td>
   </tr>
  </table>
  </p>
