@@ -23,7 +23,8 @@ Some screenshots of the Application:
     <td>Login Screen</td>
   </tr>
   <tr>
-    <td><img src="./SS/Home Page.png" width="220"></td>
+    <td><img src="https://github.com/Sathvik-edu/Waste_Food_Management/assets/142387754/ffa12c31-d862-4945-b315-f1decbe4d0e9
+" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682402-6a9917ae-0734-4b37-a8ef-bfcc0f49f537.png" width="220"></td>
     <td><img src="https://user-images.githubusercontent.com/54005333/147682393-903ff2a0-2aac-48d4-92a5-0d3e2f403a84.png" width="220"></td>
   </tr>
